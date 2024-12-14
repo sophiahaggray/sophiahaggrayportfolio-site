@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sophia Haggray | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sophia Haggray's Critical Computation Lab Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="reflections.html">Reflections</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="welcome">
+            <h2>Welcome</h2>
+            <p>Explore my work from the Critical Computation Lab this semester. You'll find my projects, reflections, and a bit about me!</p>
+        </section>
+
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am a passionate and innovative BFA Design & Technology student at Parsons School of Design. My work explores the intersection of fashion and technology, driving forward concepts that merge creativity with functionality. With a background in merchandising, branding, and creative direction, I specialize in UI/UX design, digital marketing, and trend forecasting.</p>
+            <p>Throughout my journey, I’ve developed expertise in translating visionary concepts into impactful, tech-driven solutions. From my coursework at Parsons to professional experiences with renowned brands like Ralph Lauren and J.Crew, I have honed my ability to combine design with storytelling to create meaningful connections.</p>
+            <p>When I'm not designing, you can find me exploring the latest tech innovations, diving into trend analysis, or imagining how technology can redefine our daily experiences. My ultimate goal is to contribute to projects that push the boundaries of fashion, technology, and human interaction.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Lost & Found</h3>
+                    <iframe src="https://editor.p5js.org/haggs805/full/a8DidF5jZ" width="600" height="400"></iframe>
+                    <p>A project exploring themes of loss and rediscovery through interactive visuals.</p>
+                </li>
+                <li>
+                    <h3>Face Generator</h3>
+                    <iframe src="https://editor.p5js.org/haggs805/full/9ynMrDhS4" width="600" height="400"></iframe>
+                    <p>An experimental sketch that dynamically generates unique faces.</p>
+                </li>
+                <li>
+                    <h3>Experimental Clock</h3>
+                    <iframe src="https://editor.p5js.org/haggs805/full/g81QPQ12o" width="600" height="400"></iframe>
+                    <p>A creative reimagining of timekeeping using innovative visual elements.</p>
+                </li>
+                <li>
+                    <h3>Exquisite Corpse</h3>
+                    <iframe src="https://editor.p5js.org/haggs805/full/sEgL7t44k" width="600" height="400"></iframe>
+                    <p>A collaborative digital art piece inspired by the surrealist game.</p>
+                </li>
+                <li>
+                    <h3>Optical Illusion</h3>
+                    <iframe src="https://editor.p5js.org/haggs805/full/bXg6xqbY3" width="600" height="400"></iframe>
+                    <p>An optical illusion created using p5.js, exploring perception and depth.</p>
+                </li>
+                <li>
+                    <h3>Data Portrait</h3>
+                    <iframe src="https://editor.p5js.org/haggs805/full/_Gpdb4RQJ" width="600" height="400"></iframe>
+                    <p>A visualization of data that represents a unique portrait.</p>
+                </li>
+                <li>
+                    <h3>Autobiographical Game</h3>
+                    <iframe src="https://editor.p5js.org/haggs805/full/A1WeG512v" width="600" height="400"></iframe>
+                    <p>A game narrating personal experiences through interactive storytelling.</p>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Sophia Haggray</p>
+    </footer>
+</body>
+</html>
